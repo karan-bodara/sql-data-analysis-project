@@ -1,6 +1,7 @@
 # SQL Data Analytics Project
-A comprehensive collection of SQL scripts for data exploration, analytics, and reporting
 
+# Project overview
+A comprehensive collection of SQL scripts for data exploration, analytics, and reporting
 Covers various types of analysis including:
 
 -Database exploration
