@@ -17,7 +17,7 @@ Covers various types of analysis including:
 And more
 
 
-## Designed to help data analysts and BI professionals:
+## Designed to help data analysts and BI professionals :
 
 -Quickly explore data
 
