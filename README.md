@@ -34,4 +34,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 I am a data enthusiast passionate about transforming raw data into actionable insights. Skilled in modern data architectures, analytics, and storytelling through dashboards.
 
-[![linkedin]](https://www.linkedin.com/in/karan-bodara-8684562b4/)
+Lets connect :
+[[LinkedIn]](https://www.linkedin.com/in/karan-bodara-8684562b4/)
