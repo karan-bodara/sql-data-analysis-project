@@ -1,6 +1,6 @@
 # SQL Data Analytics Project
 
-# Project overview :
+# 📈Project overview :
 A comprehensive collection of SQL scripts for data exploration, analytics, and reporting
 Covers various types of analysis including:
 
@@ -16,8 +16,19 @@ Covers various types of analysis including:
 
 And more
 
+# 🛠️ SQL Techniques Used
+Date Functions: YEAR(), MONTH(), DATE_TRUNC()
 
-## Designed to help data analysts and BI professionals :
+Aggregations: SUM(), COUNT()
+
+Window Functions: SUM() OVER, RANK()
+
+Common Table Expressions (CTEs)
+
+Customer Segmentation Analysis (RFM Model)
+
+
+## 🎯Designed to help Data Analysts and BI professionals :
 
 -Quickly explore data
 
@@ -25,6 +36,12 @@ And more
 
 -Analyze data within a relational database
 
+
+# 🔗Related Repository :
+This project is part of a Data Warehouse ecosystem.
+You can check the Data Warehouse design, ETL process, and schema setup here:
+
+👉 [sql-datawarehouse-project](https://github.com/karan-bodara/sql-datawarehouse-project)
 
 
 
